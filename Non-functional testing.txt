@@ -1,0 +1,29 @@
+Целью нефункционального тестирования является проверка соответствия свойств приложения с его
+нефункциональными требованиями.
+Это тестирование свойств, которые не относятся к функциональности системы.
+
+Основные нефункциональные типы тестирования:
+
+ -Производительности (Performance)
+ Стрессовое (Stress testing)
+ Тестирование емкости/способностей (Capacity testing)
+ Нагрузочное (Load testing)
+ Объемное тестирование (Volume testing)
+ Выносливости/стабильности/надежности (Soak/Endurance/Stability/Reliability testing)
+ Шиповое (Spike)
+ Масштабируемости (Scalability Test)
+ -Тестирование времени отклика (Response Time testing)
+ -Тестирование на отказоустойчивость (Failover testing)
+ -Тестирование совместимости (Compatibility testing)
+ -Тестирование на удобство пользования (Usability testing)
+ -Тестирование на поддерживаемость/ремонтопригодность (Maintainability testing)
+ -Тестирование безопасности (Security testing)
+ -Тестирование аварийного восстановления (Disaster Recovery testing)
+ -Тестирование на соответствие (Compliance testing)
+ -Тестирование переносимости (Portability testing)
+ -Тестирование эффективности (Efficiency testing)
+ -Базовое тестирование (Baseline testing)
+ -Тестирование документации (Documentation testing)
+ -Тестирование восстановления (Recovery testing)
+ -Интернационализация (Globalization/Internationalization testing)
+ -Тестирование локализации (Localization testing)
